@@ -23,4 +23,6 @@
 <h3> 💻 Minhas Redes Sociais: </h3>
 
  <a href = "mailto: laisaquino00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>  <a href="https://www.linkedin.com/in/lais-de-aquino-isaias-148793196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=orange" target="_blank"></a> 
+   
+![Snake animation](https://github.com/laisaquinoo/laisaquinoo/blob/output/github-contribution-grid-snake.svg)
 </div>
