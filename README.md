@@ -20,7 +20,6 @@
 <img align="right" alt="Lais-groot"  height="110" width="125" src="https://i.pinimg.com/originals/c3/13/a9/c313a953b1345a04bc4a9475dd8f021f.gif">
 </div>
   
-  ##
  
 <div> 
 <h5>Minhas Redes Sociais:</h3>
