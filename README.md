@@ -15,8 +15,8 @@
  <img align="center" alt="Lais-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  <img align="center" alt="Lais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Lais-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Lais-kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
  <img align="center" alt="Lais-Postresql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+ <img align="center" alt="Lais-shell" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shell/shell-original.svg">
  <img align="right" alt="Lais-groot"  height="115" width="135" src="https://i.pinimg.com/originals/c3/13/a9/c313a953b1345a04bc4a9475dd8f021f.gif">  
 </div>
   
